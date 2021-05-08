@@ -117,13 +117,13 @@ const textProps = [
   {
     id: 'font',
     label: 'Font',
-    defaultVal: 'Open Sans Condensed:300',
+    defaultVal: 'Literally any Google Fonts font:300',
     type: 'text'
   },
   {
     id: 'content',
     label: 'Text',
-    defaultVal: 'Intentionally ambiguous text',
+    defaultVal: 'OpenBacc',
     type: 'text'
   }
 ];
