@@ -386,7 +386,7 @@ function exportVideo() {
     if (download) {
       const saveLink = document.createElement('a');
       saveLink.href = exportedURL;
-      saveLink.download = 'openshit-export.webm';
+      saveLink.download = 'openbacc-export.webm';
       document.body.appendChild(saveLink);
       saveLink.click();
       document.body.removeChild(saveLink);
